@@ -1,1 +1,1 @@
-# tutorials for Introduction to Machine Learning
+# Practical tutorials for Introduction to Machine Learning
